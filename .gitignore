@@ -1,0 +1,12 @@
+# Power BI temp/cache files
+*.pbix.bak
+~$*.pbit
+~$*.pbix
+*.pbi.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data files (add your own CSVs here, keep them out of git if they contain sensitive data)
+# /data/*.csv
